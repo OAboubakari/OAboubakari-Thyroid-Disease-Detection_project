@@ -1,0 +1,5 @@
+gunicorn
+PyYaml
+pandas
+sckit-learn
+numpy
